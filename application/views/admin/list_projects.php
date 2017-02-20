@@ -1,5 +1,5 @@
 <ul>
-	<li>Back to Admin</li>
+	<li><?php echo anchor('admin', 'Back to Admin');?></li>
 	<li>log out</li>
 
 </ul>
